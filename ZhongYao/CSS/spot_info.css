@@ -1,0 +1,31 @@
+.spot{
+    width: 500px;
+    height:350px;
+    object-fit: cover;
+
+}
+.container{
+    height: 370px;
+}
+
+.container>img{
+    width: 480px;
+    float: left;
+}
+
+.container>p{
+    float: left;
+    width: 700px;
+    padding:25px;
+    line-height: 36px;
+    font-size: 20px;
+    text-indent: 2em;
+}
+
+.nout{
+    width: 100%;
+    padding:25px;
+    line-height: 36px;
+    font-size: 20px;
+    text-indent: 2em;
+}
